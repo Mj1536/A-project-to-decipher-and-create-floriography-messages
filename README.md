@@ -18,6 +18,8 @@ The project came as a way to introduce people to floriography and provide anothe
 Option 1- After starting type 1, it will select the option to find a flower, showing which number should be typed for the first letter of the wanted flower. After typing the letter, flowers beginning with that letter will show; type the selected flower's number, and the meaning will appear.
 Option 2- after starting type 2, it will select the option to chose a meaning, at star a category between good and bad meanings, then between family, friendship or romance, categories for each one, type the numbers chosen and the flower or flowers indicated will appear.
 
+It can be used on OnlineGDB
+
 #Demo video
 
 https://www.youtube.com/watch?v=vgX17uMuZZY
