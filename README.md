@@ -100,6 +100,7 @@ Book - "FLORIOGRAFIA" by Jessica Roux, Darkside, 2024
 Chat Gpt
 Translating some flower names
 Debugging help
+Aid learning how to make the code available on a website
 
 LanguageTool
 Grammar correction
