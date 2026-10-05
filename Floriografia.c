@@ -139,8 +139,8 @@ int main()
       
         break;
         }
-        
 
+        break;
 
         case 2:
         printf("Is the flower/plant one of the following?\n");
@@ -431,6 +431,10 @@ int main()
         break;
 
         case 9:
+        printf("Is the flower/plant one of the following?\n");
+        printf("1- Iris          2- Ivy\n");
+        printf("Type the number here:\n");
+        scanf("%d", &D9);
         switch(D9){
 
         case 1: //Iris
